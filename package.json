@@ -1,0 +1,35 @@
+{
+  "name": "noform-antd",
+  "description": "noform for ant-design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "antd": "^3.9.1",
+    "noform": "^0.0.92",
+    "react": "16.x",
+    "react-dom": "16.x"
+  },
+  "peerDependencies": {
+    "react": "16.x",
+    "react-dom": "16.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quirkyshop/noform-antd.git"
+  },
+  "keywords": [
+    "noform",
+    "for",
+    "Ant-Design"
+  ],
+  "author": "quirkyshop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quirkyshop/noform-antd/issues"
+  },
+  "homepage": "https://github.com/quirkyshop/noform-antd#readme"
+}
